@@ -8,7 +8,7 @@
 
 2.   Importar main y usar la función iniciar_programa()
 
-     import main
+     import main      
      main.iniciar_programa()
      
 4.   El programa ya está listo para usarse
