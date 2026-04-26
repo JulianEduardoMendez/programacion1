@@ -7,6 +7,8 @@
     !python main.py
 
 2.   Importar main y usar la función iniciar_programa()
+
      import main
      main.iniciar_programa()
-3.   El programa ya está listo para usarse
+     
+4.   El programa ya está listo para usarse
