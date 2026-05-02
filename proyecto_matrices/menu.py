@@ -1,5 +1,5 @@
-from proyecto_matrices import operaciones_matrices as om
-from proyecto_matrices import entrada as ent
+import operaciones_matrices as om
+import entrada as ent
 def mostrar_menu():
   opcion = 0
   while opcion != 5:
