@@ -1,12 +1,12 @@
 -Proyecto de matrices
 -Cómo ejecutar
-1.   Abrir google Colab y escribir esto en una celda:
+1.   Buscar en cada rama y descargar cada módulo (4 en total).
+2.   Abrir google Colab y escribir esto para cada módulo:
 
-    !git clone https://github.com/JulianEduardoMendez/programacion1.git
-    %cd programacion1/proyecto_matrices
-    !python main.py
+from google.colab import files
+*Nombre del módulo* = files.upload()
 
-2.   Importar main y usar la función iniciar_programa()
+3.   Importar main y usar la función iniciar_programa()
 
      import main      
      main.iniciar_programa()
